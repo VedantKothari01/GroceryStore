@@ -15,6 +15,9 @@ The **Grocery Store App** is an Android application designed to showcase a list 
 - **Date Picker**: Allows users to select a date and view grocery items available on that date.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/1294ed08-bea6-4794-8039-a9ea3219f443)
+![image](https://github.com/user-attachments/assets/97c6ccf0-07d3-4d00-9ee9-b7b2f60d70bb)
+![image](https://github.com/user-attachments/assets/4bc1f8d1-bf2a-4fe3-be37-2e44d3ddadc1)
 
 
 
