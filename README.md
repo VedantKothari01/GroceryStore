@@ -19,8 +19,6 @@ The **Grocery Store App** is an Android application designed to showcase a list 
 
 
 
-![Grocery Store App Screenshot](URL_TO_SCREENSHOT)
-
 ## Technologies Used
 
 - **Android Studio**: IDE for Android app development.
