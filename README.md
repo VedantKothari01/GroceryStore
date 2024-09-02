@@ -1,6 +1,3 @@
-Great, here's a tailored README for your [Grocery Store GitHub repository](https://github.com/VedantKothari01/GroceryStore):
-
----
 
 # Grocery Store App
 
