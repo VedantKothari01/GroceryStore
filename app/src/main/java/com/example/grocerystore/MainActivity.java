@@ -71,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
         groceriesList.add(new GroceryItem("Garlic", "https://i.imgur.com/uXaaW4r.jpeg"));
         groceriesList.add(new GroceryItem("Spinach", "https://lettuceinfo.org/wp-content/uploads/2020/09/Spinach.jpg"));
 
-        // Notify the adapter that data has changed
         if (adapter != null) {
             adapter.notifyDataSetChanged();
         }
