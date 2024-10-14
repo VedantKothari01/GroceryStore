@@ -2,7 +2,7 @@ package com.example.grocerystore;
 
 public class GroceryItem {
     private String name;
-    private String imageUrl; // Change to String
+    private String imageUrl;
 
     public GroceryItem(String name, String imageUrl) {
         this.name = name;
